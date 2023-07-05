@@ -24,7 +24,7 @@ st.write('''
 image = Image.open('Moi.png')
 st.image(image, width=150)
 
-st.markdown('## Summary', unsafe_allow_html=True)
+st.markdown('## À Propos de Moi', unsafe_allow_html=True)
 st.info('''
 Professionnelle de l'audiovisuel en pleine reconversion, dotée de nombreuses années d'expérience et en quête de nouveaux challenges, je désire évoluer vers l'analyse de données en tant que Data Analyst Junior.
 Ma forte aptitude à acquérir de nouvelles connaissances m'a ainsi permis de bénéficier de solides formations dans ce domaine.
